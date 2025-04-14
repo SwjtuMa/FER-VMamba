@@ -1,11 +1,10 @@
-<<<<<<< HEAD
+
 # FER-VMamba
-=======
 # FER-VMamba
 # 📝Introduction📝
 The repository of "FER-VMamba: A Robust Facial Expression Recognition Framework with Global Compact Attention and Hierarchical Feature Interaction".
 The complete repository will be made publicly available upon acceptance of the paper.
-![image](https://github.com/SwjtuMa/FER-VMamba/blob/main/FER-YOLO-Mamba.jpg)
+![image](https://github.com/SwjtuMa/FER-VMamba/FER-VMamba.pdf)
 The current branch has been tested on Linux system, PyTorch 2.0.0 and CUDA 11.7, supports Python Python 3.11.8, and is compatible with CUDA11.7+ versions.
 
 If you find this project helpful, please give us a star ⭐️, your support is our greatest motivation.
